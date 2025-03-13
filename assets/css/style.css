@@ -1,7 +1,14 @@
 /* IMPOSTAZIONI GENERALI */
-
+body {
+  background-image: url(../img/sfondo.png);
+  font-family: "Poppins";
+}
 /* HEADER */
-
+header {
+  background: rgb(2, 105, 136);
+  background: linear-gradient(0deg, rgba(2, 105, 136, 1) 35%, rgba(0, 161, 196, 1) 100%);
+  margin: 2rem;
+}
 /* MAIN */
 
 /* ELEMENTI NEL MAIN - ARTICLE */
